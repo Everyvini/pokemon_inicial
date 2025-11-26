@@ -15,7 +15,7 @@ Este é um quiz interativo em Pygame que te ajuda a descobrir qual é o Pokémon
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/everyvini/pokemon_inicial.git](https://github.com/everyvini/pokemon_inicial.git)
+    git clone [https://github.com/Everyvini/pokemon_inicial]
     ```
 2.  Instale o Pygame:
     ```bash
@@ -27,5 +27,6 @@ Este é um quiz interativo em Pygame que te ajuda a descobrir qual é o Pokémon
     ```
 
 ## Contribuições
+
 
 Sinta-se à vontade para contribuir com melhorias! Para fazer isso, siga os seguintes passos:
