@@ -15,12 +15,24 @@ Este é um quiz interativo em Pygame que te ajuda a descobrir qual é o Pokémon
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/Everyvini/pokemon_inicial]
+    git clone: https://github.com/Everyvini/pokemon_inicial
     ```
-2.  Instale o Pygame:
+
+2. Verifique qual a versão do Python sua máquina possui:
+   ```bash
+    python --version
+   ```
+   
+3.  Instale o Pygame:
     ```bash
     pip install pygame
     ```
+
+    Caso o comando retorne um erro, tente:
+    ```bash
+    python -m pip install pygame
+    ```
+    
 3.  Execute o jogo:
     ```bash
     python pokemon_version1.py
@@ -30,3 +42,4 @@ Este é um quiz interativo em Pygame que te ajuda a descobrir qual é o Pokémon
 
 
 Sinta-se à vontade para contribuir com melhorias! Para fazer isso, siga os seguintes passos:
+
